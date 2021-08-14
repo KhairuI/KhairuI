@@ -4,7 +4,7 @@ I am Studying B. Sc. in Computer Science and Engineering at Daffodil Internation
 
 Skills: Java / Kotlin / Android / HTML / CSS / Adobe PhotoShop
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working as a Android Developer at Easital Technologies Ltd, Dhaka, Bangladesh. 
 - 🌱 I’m currently learning Python Language 
 
 
